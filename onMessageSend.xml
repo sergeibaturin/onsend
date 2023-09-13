@@ -10,8 +10,8 @@
   <Version>1.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-us</DefaultLocale>
-  <DisplayName DefaultValue="ON SEND 12.2" />
-  <Description DefaultValue="ON SEND 12.2" />
+  <DisplayName DefaultValue="ON SEND 1" />
+  <Description DefaultValue="ON SEND 1" />
 
   <Requirements>
     <Sets DefaultMinVersion="1.1">
